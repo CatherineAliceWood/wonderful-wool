@@ -1,5 +1,4 @@
 # Wonderful Wool
-## My SQL Assignment for the CFG Degree
 A prototype database for a yarn shop 
 - 3 tables - yarn, purchases and loyalty card holders, linked with foreign keys. 
 - includes a stored procedure to process purchases
